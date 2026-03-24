@@ -582,7 +582,7 @@ footer{
 #pattern1{
     background-color: var(--light-gray);
     background-size: 110%;
-    background-image: url(images/wood.png);
+    background-image: url("images/wood.png");
     
 }
 
